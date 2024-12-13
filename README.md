@@ -15,9 +15,10 @@ O aplicativo funciona como uma lista de contatos, onde você pode realizar as se
    - Nome  
    - E-mail  
    - Telefone  
+   E confirme em **"Cadastrar"**.
 
 2. **Editar Contatos**  
-   Caso deseje modificar as informações de um contato já existente, clique no ícone de **lápis** ao lado do nome do contato que deseja editar. Após editar, confirme as alterações.
+   Caso deseje modificar as informações de um contato já existente, clique no ícone de **lápis** ao lado do nome do contato que deseja editar. Após editar, confirme as alterações clicando em **"Atualizar"**.
 
 3. **Excluir Contatos**  
    Para excluir um contato, clique no ícone de **lixeira** ao lado do contato que deseja remover. Uma janela de confirmação aparecerá para garantir que você realmente deseja excluir o contato.
